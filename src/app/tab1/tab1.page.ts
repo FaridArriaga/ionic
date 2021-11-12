@@ -13,7 +13,7 @@ export class Tab1Page {
     let numero = 10;
     debugger;
     numero = 20;
-    numero+= 10;
+    numero+= 40;
     numero = 0;
     console.log(numero);
   }
